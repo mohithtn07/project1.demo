@@ -1,3 +1,3 @@
 # project1.demo
 This is my first Git Repository.
-Auther - Mohith TN
+Author - Mohith TN
